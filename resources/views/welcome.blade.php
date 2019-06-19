@@ -93,6 +93,21 @@
                     Attendance Management
                 </div>
 
+                <div class='row'>
+
+
+                  <div class="col-md-6">
+                    <a href="/arrival"><button class="btn btn-primary btn-block">Arrival</button></a>
+                    </div>
+
+
+
+                      <div class="col-md-6">
+                    <a href="/departure"><button class="btn btn-danger btn-block">Departure</button></a>
+                  </div>
+
+                </div>
+
                 <!-- <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
